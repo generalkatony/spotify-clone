@@ -30,3 +30,6 @@ The application showcases how to integrate key technologies and services to buil
     Responsive design with Tailwind CSS
 
     Server-side rendering and static site generation using Next.js
+
+
+![image](https://github.com/user-attachments/assets/6245f7b2-3f18-4226-a3f9-276e590afda7)
