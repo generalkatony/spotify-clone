@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🎵 Spotify Clone – Music SaaS Demo Built with Next.js
 
-## Getting Started
+This project is a full-stack Spotify-inspired music streaming service built with Next.js, bootstrapped using create-next-app. It is designed to emulate the core functionalities of a modern music Software-as-a-Service (SaaS) platform like Spotify.
 
-First, run the development server:
+The application showcases how to integrate key technologies and services to build a scalable, feature-rich streaming platform.
+🔧 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+    Next.js – React-based framework for fast, scalable web applications
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    React – Frontend UI development
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    Tailwind CSS – Utility-first CSS framework for rapid styling
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+    Supabase – Backend-as-a-Service (authentication, database, storage)
 
-## Learn More
+    PostgreSQL – Relational database for managing user and song data
 
-To learn more about Next.js, take a look at the following resources:
+    Stripe – Subscription-based payments and billing integration
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🚀 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+    User authentication and authorization via Supabase
 
-## Deploy on Vercel
+    Dynamic music streaming UI
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    Playlist and song management
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+    Stripe-powered premium subscription handling
+
+    Responsive design with Tailwind CSS
+
+    Server-side rendering and static site generation using Next.js
